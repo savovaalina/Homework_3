@@ -5,4 +5,4 @@
 string phrase = "Pisuvam programa";
 string phrase1 = "vo c#";
 string phrase2 = phrase + " " + phrase1;
-Console.WriteLi(phrase2);
+Console.WriteLine(phrase2);
