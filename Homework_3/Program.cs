@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int a = 5;
-int b = 6;
-int c = a * b;
 
-Console.WriteLine("Rezultatot e: {0}", c);
+
+string phrase = "Pisuvam programa";
+string phrase1 = "vo c#";
+string phrase2 = phrase + " " + phrase1;
+Console.WriteLi(phrase2);
